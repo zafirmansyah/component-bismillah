@@ -1,0 +1,13 @@
+button.btn-grid{
+	padding: 2px 5px !important;
+	width: 100% !important;
+	display: block;
+	font-size: 11px ;
+}
+.number{ text-align: right; }
+.loading-text{
+	text-align: center;
+	font-size: 10px;
+}
+.full-height{height: 100% ;}
+.date{text-align: center;}
